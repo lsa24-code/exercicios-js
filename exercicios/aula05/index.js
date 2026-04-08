@@ -1,6 +1,4 @@
-// ========================================
 // Aula 05 — Fundamentos de JavaScript
-// ========================================
 // Implemente cada função abaixo.
 // Rode os testes com: npx vitest run exercicios/aula05
 // Não mexa no arquivo index.test.js.
