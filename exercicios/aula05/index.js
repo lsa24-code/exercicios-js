@@ -10,9 +10,9 @@ export function classificarIdade(idade) {
   if (idade < 12)
     return ('criança');
   else if ( idade >= 12 && idade <= 17)
-    return ('Adolescente');
+    return ('adolescente');
   else 
-    return ('Adulto');
+    return ('adulto');
 }
 
 // Exercício 2 — calcularDesconto
