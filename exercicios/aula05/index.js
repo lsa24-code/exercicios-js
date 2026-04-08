@@ -28,7 +28,7 @@ export function verificarAprovacao(nota) {
   else if (nota >= 40) 
     return "recuperação";
   else 
-    return "reprovado;"
+    return "reprovado";
 }
 
 // Exercício 4 — somarPares
